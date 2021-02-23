@@ -1,10 +1,12 @@
 # Work Day Planner
 
 ## Description
+Starting with the base code, I had to then build the HTML by utilizing bootstrap and the grid layouts.  After that i wrote the javascript utilizing JQuery. Adding color based on the times of the day in relation to the planner. Text entered in will be saved to local storage and displayed in the fields after refresh.
 
 ## Resources
 
 - Base Code provide by ***Trilogy Education Services LLC***
+- ***Bootstrap***
 
 ## Acceptance Criteria
 
@@ -26,10 +28,10 @@ THEN the saved events persist
 
 ## Links to GitHub Repo and Deployed Application
 
-- [GitHub Repo]()
-- [Deployed Application]()
+- [GitHub Repo](https://github.com/HurleySquared/work-day-planner)
+- [Deployed Application](https://hurleysquared.github.io/work-day-planner/)
 
 
 ## Screenshot of Work Day Planner
 
-![Screenshot of WDP]()
+![Screenshot of WDP](images/work-day-planner.png)
